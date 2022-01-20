@@ -14,5 +14,8 @@
 * forplot.m: You may need to adjust the file path
 
 
+#### How to use the code：
 
+1. Download all the code
+2. Run the file **run.m**(if you want to simulate the power/type I error), or **plot.m**(if you want to plot the power)
 
